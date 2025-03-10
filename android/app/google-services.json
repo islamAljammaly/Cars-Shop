@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "304666857219",
+    "project_id": "carsshop-a4769",
+    "storage_bucket": "carsshop-a4769.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304666857219:android:84bdf3d093549f07dfa336",
+        "android_client_info": {
+          "package_name": "com.example.cars_shop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWBZK5lxJpyqUPKOg5LumI2SSN_ap07rw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
